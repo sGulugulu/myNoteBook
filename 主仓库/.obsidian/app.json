@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./附件",
+  "spellcheck": false,
+  "livePreview": true,
+  "readableLineLength": false
+}

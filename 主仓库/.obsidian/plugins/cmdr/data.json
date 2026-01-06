@@ -1,0 +1,58 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "app:delete-file",
+      "icon": "lucide-trash-2",
+      "name": "删除当前文件",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "app:open-vault",
+      "icon": "vault",
+      "name": "打开其他仓库",
+      "mode": "any"
+    },
+    {
+      "id": "app:open-settings",
+      "icon": "lucide-settings",
+      "name": "打开设置",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "editor:toggle-source",
+      "icon": "lucide-code-2",
+      "name": "切换实时阅览/源码模式",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "sync"
+    ],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

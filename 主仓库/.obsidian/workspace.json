@@ -1,0 +1,346 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc5318522a9769fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2af72a1c8cfe86e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CUDA学习/cuda by example.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cuda by example"
+            }
+          },
+          {
+            "id": "8c2cd2a69f613c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "股票/25.12.31 最难一课之击穿对手盘.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "25.12.31 最难一课之击穿对手盘"
+            }
+          },
+          {
+            "id": "cc0447d667c306e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "股票/1黑名单 blacklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1黑名单 blacklist"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "708b94d05153b6bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "85566d1fe6bdf496",
+        "type": "tabs",
+        "dimension": 40.4040404040404,
+        "children": [
+          {
+            "id": "ca7a40f007c7cef6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "4f55ec875fd988ae",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "386e86ea9c61f379",
+        "type": "tabs",
+        "dimension": 59.59595959595959,
+        "children": [
+          {
+            "id": "4b9b0c47319472dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "71715af38189da35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2e88a07155069686",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3a769639c5023ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3889ddb7e38e9cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "股票/1黑名单 blacklist.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "1黑名单 blacklist 的反向链接列表"
+            }
+          },
+          {
+            "id": "20b3dd2452726903",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "股票/1黑名单 blacklist.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "4344280ca4b5b2f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "11ce2cb9d6fb70d4",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "1ec8911010e7c093",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "99160f7c60f10f0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4579765cf937e8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CUDA学习/cuda by example.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "cuda by example 的大纲"
+            }
+          },
+          {
+            "id": "1187facb6d7041a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2fd39a360b6c25e3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "0a2a9879c2205cdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "股票/25.12.24底部暴力k线擒大牛.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "25.12.24底部暴力k线擒大牛 的出链列表"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open external media": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cc0447d667c306e0",
+  "lastOpenFiles": [
+    "股票/25.12.31 最难一课之击穿对手盘.md",
+    "股票/附件/Pasted image 20260101022337.png",
+    "股票/1黑名单 blacklist.md",
+    "CUDA学习/cuda by example.md",
+    "股票/未命名.md",
+    "股票/25.12.24底部暴力k线擒大牛.md",
+    "CUDA学习/未命名.md",
+    "股票/25.12.28市场总是会将以信仰坚定的人.md",
+    "股票/附件/Pasted image 20251229024201.png",
+    "股票/附件/Pasted image 20251229023827.png",
+    "股票/附件/Pasted image 20251229022547.png",
+    "股票/附件/Pasted image 20251229022159.png",
+    "股票/1零碎知识点.md",
+    "股票/附件/Pasted image 20251229021808.png",
+    "股票/附件/Pasted image 20251229021344.png",
+    "股票/附件/Pasted image 20251229013637.png",
+    "股票/附件/Pasted image 20251229013617.png",
+    "股票/附件/Pasted image 20251229013442.png",
+    "股票/25.9.14如何成为一名斗牛士.md",
+    "cpp学习笔记/25.9.8经典图形.md",
+    "股票/25.12.10成交量与股价最真实的关系.md",
+    "股票/25.12.14一切都在酝酿之中.md",
+    "股票/25.10.15关键k的重要价值.md",
+    "股票/25.12.21起床了.md",
+    "股票/25.12.17为什么散户输在没有交易节奏.md",
+    "股票/25.11.3下一个比亚迪在哪.md",
+    "CUDA学习/未命名.base",
+    "CUDA学习/intro to CUDA 1.md",
+    "CUDA学习/学习路径.md",
+    "股票/25.09.01神仙打架我散如何应对(执行趋势线)(黄白线).md",
+    "股票/25.05.07少妇战法.md",
+    "股票/25.08.24牛市如何逃顶.md",
+    "股票/25.08.27指数贡献策略防止踏空.md",
+    "股票/25.09.03今天才有点儿内个意思(10张完美b1图)(11.18补两张).md",
+    "股票/25.9.10 牛市偷懒法之躺平策略.md",
+    "股票/25.9.17 5种典型出货.md",
+    "CUDA学习/附件",
+    "未命名.canvas",
+    "Excalidraw",
+    "1 - 01-llc识别后端.mp4",
+    "未命名",
+    "日记",
+    "模板库",
+    "CUDA学习",
+    "股票/附件",
+    "未命名 1",
+    "未命名 1.canvas"
+  ]
+}
