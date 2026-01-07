@@ -21,5 +21,6 @@
   "mermaid-tools",
   "mermaid-popup",
   "heatmap-calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excel-to-markdown-table"
 ]

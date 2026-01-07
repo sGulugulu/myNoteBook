@@ -4,53 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "fc5318522a9769fa",
+        "id": "88de5a06205f89da",
         "type": "tabs",
         "children": [
           {
-            "id": "2af72a1c8cfe86e3",
+            "id": "ac5949a634dfb2ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CUDA学习/cuda by example.md",
+                "file": "股票/学习笔记/26.01.07 b2买点案例精讲(变化很多,多看).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cuda by example"
+              "title": "26.01.07 b2买点案例精讲(变化很多,多看)"
             }
           },
           {
-            "id": "8c2cd2a69f613c43",
+            "id": "b7bcd88cfa720f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "股票/25.12.31 最难一课之击穿对手盘.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "25.12.31 最难一课之击穿对手盘"
-            }
-          },
-          {
-            "id": "cc0447d667c306e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "股票/1黑名单 blacklist.md",
+                "file": "股票/学习笔记/25.10.6国庆特训2--5种b2玩法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1黑名单 blacklist"
+              "title": "25.10.6国庆特训2--5种b2玩法"
+            }
+          },
+          {
+            "id": "209e987106cd547f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "股票/1零碎知识点.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1零碎知识点"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +61,7 @@
       {
         "id": "85566d1fe6bdf496",
         "type": "tabs",
-        "dimension": 40.4040404040404,
+        "dimension": 48.309178743961354,
         "children": [
           {
             "id": "ca7a40f007c7cef6",
@@ -84,13 +83,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "386e86ea9c61f379",
         "type": "tabs",
-        "dimension": 59.59595959595959,
+        "dimension": 51.690821256038646,
         "children": [
           {
             "id": "4b9b0c47319472dc",
@@ -124,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2e88a07155069686",
@@ -140,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "股票/1黑名单 blacklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "1黑名单 blacklist 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -158,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "股票/1黑名单 blacklist.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -293,54 +289,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc0447d667c306e0",
+  "active": "ac5949a634dfb2ad",
   "lastOpenFiles": [
-    "股票/25.12.31 最难一课之击穿对手盘.md",
-    "股票/附件/Pasted image 20260101022337.png",
-    "股票/1黑名单 blacklist.md",
-    "CUDA学习/cuda by example.md",
-    "股票/未命名.md",
-    "股票/25.12.24底部暴力k线擒大牛.md",
-    "CUDA学习/未命名.md",
-    "股票/25.12.28市场总是会将以信仰坚定的人.md",
-    "股票/附件/Pasted image 20251229024201.png",
-    "股票/附件/Pasted image 20251229023827.png",
-    "股票/附件/Pasted image 20251229022547.png",
-    "股票/附件/Pasted image 20251229022159.png",
+    "股票/学习笔记/附件/Pasted image 20260108005338.png",
+    "股票/学习笔记/26.01.07 b2买点案例精讲(变化很多,多看).md",
+    "股票/学习笔记/25.10.6国庆特训2--5种b2玩法.md",
     "股票/1零碎知识点.md",
-    "股票/附件/Pasted image 20251229021808.png",
-    "股票/附件/Pasted image 20251229021344.png",
-    "股票/附件/Pasted image 20251229013637.png",
-    "股票/附件/Pasted image 20251229013617.png",
-    "股票/附件/Pasted image 20251229013442.png",
-    "股票/25.9.14如何成为一名斗牛士.md",
+    "股票/学习笔记/附件/Pasted image 20260108012148.png",
+    "股票/学习笔记/附件/Pasted image 20260108010730.png",
+    "股票/学习笔记/附件/Pasted image 20260108010208.png",
+    "股票/学习笔记/附件/Pasted image 20260108005633.png",
+    "股票/学习笔记/附件/Pasted image 20260108005225.png",
+    "股票/学习笔记/附件/Pasted image 20260108004957.png",
+    "股票/学习笔记/附件/Pasted image 20260108004815.png",
+    "股票/学习笔记/附件/Pasted image 20260108004506.png",
+    "股票/学习笔记/附件/Pasted image 20260108004052.png",
+    "日记/2026-01-07.md",
+    "股票/学习笔记/25.12.31 最难一课之击穿对手盘.md",
+    "股票/学习笔记/附件",
+    "股票/选股日记.md",
+    "股票/学习笔记/25.08.19只买最好的 进阶课.md",
+    "股票/B1战法.md",
+    "股票/选股日记",
+    "投资日记",
+    "股票/学习笔记/25.05.07少妇战法.md",
+    "股票/1黑名单 blacklist.md",
+    "股票/学习笔记",
+    "CUDA学习/cuda by example.md",
+    "股票/学习笔记/25.12.24底部暴力k线擒大牛.md",
+    "CUDA学习/未命名.md",
+    "股票/学习笔记/25.12.28市场总是会将以信仰坚定的人.md",
+    "股票/学习笔记/25.9.14如何成为一名斗牛士.md",
     "cpp学习笔记/25.9.8经典图形.md",
-    "股票/25.12.10成交量与股价最真实的关系.md",
-    "股票/25.12.14一切都在酝酿之中.md",
-    "股票/25.10.15关键k的重要价值.md",
-    "股票/25.12.21起床了.md",
-    "股票/25.12.17为什么散户输在没有交易节奏.md",
-    "股票/25.11.3下一个比亚迪在哪.md",
+    "股票/学习笔记/25.12.10成交量与股价最真实的关系.md",
+    "股票/学习笔记/25.12.14一切都在酝酿之中.md",
+    "股票/学习笔记/25.10.15关键k的重要价值.md",
+    "股票/学习笔记/25.12.21起床了.md",
+    "股票/学习笔记/25.12.17为什么散户输在没有交易节奏.md",
+    "股票/学习笔记/25.11.3下一个比亚迪在哪.md",
     "CUDA学习/未命名.base",
     "CUDA学习/intro to CUDA 1.md",
     "CUDA学习/学习路径.md",
-    "股票/25.09.01神仙打架我散如何应对(执行趋势线)(黄白线).md",
-    "股票/25.05.07少妇战法.md",
-    "股票/25.08.24牛市如何逃顶.md",
-    "股票/25.08.27指数贡献策略防止踏空.md",
-    "股票/25.09.03今天才有点儿内个意思(10张完美b1图)(11.18补两张).md",
-    "股票/25.9.10 牛市偷懒法之躺平策略.md",
-    "股票/25.9.17 5种典型出货.md",
+    "股票/学习笔记/25.09.01神仙打架我散如何应对(执行趋势线)(黄白线).md",
     "CUDA学习/附件",
     "未命名.canvas",
     "Excalidraw",
     "1 - 01-llc识别后端.mp4",
-    "未命名",
     "日记",
     "模板库",
-    "CUDA学习",
-    "股票/附件",
-    "未命名 1",
     "未命名 1.canvas"
   ]
 }
