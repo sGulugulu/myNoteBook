@@ -4,7 +4,7 @@
   "interfaceFontFamily": "Microsoft YaHei",
   "baseFontSizeAction": true,
   "nativeMenus": true,
-  "baseFontSize": 13,
+  "baseFontSize": 12,
   "monospaceFontFamily": "Consolas",
   "showRibbon": true
 }
