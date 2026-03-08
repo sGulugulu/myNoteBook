@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2e88a07155069686",
@@ -112,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "股票/学习笔记/26.03.08如何进一步提高b1选股的成功率,以及一个重要的盘面语言避免被洗走.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "26.03.08如何进一步提高b1选股的成功率,以及一个重要的盘面语言避免被洗走 的反向链接列表"
             }
           },
           {
@@ -129,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "股票/学习笔记/26.03.08如何进一步提高b1选股的成功率,以及一个重要的盘面语言避免被洗走.md"
+              },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -177,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CUDA学习/cuda by example.md",
+                "file": "股票/学习笔记/26.03.08如何进一步提高b1选股的成功率,以及一个重要的盘面语言避免被洗走.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "cuda by example 的大纲"
+              "title": "26.03.08如何进一步提高b1选股的成功率,以及一个重要的盘面语言避免被洗走 的大纲"
             }
           },
           {
@@ -192,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "如何避免",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
