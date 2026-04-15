@@ -197,7 +197,8 @@ cudaEventDestroy()
         blend_kernel<<<blocks, threads>>>(out, dstOut,d->texIn, d->texOut);
         
     }
-   ```
+```
+   
 这段代码是一个热传导的demo片段, 90个循环是热传导的时间积分步数 目的是
 	让热量有足够时间再网格中扩散 , 太小--> 几乎不扩散 
 	产生明显,平滑的动画效果
@@ -205,4 +206,6 @@ cudaEventDestroy()
 双缓冲/乒乓交换(double buffering / Ping-Pong):
 - **避免数据依赖**：每次迭代读取`in`，写入`out`，确保不会读取刚刚写入的数据
 - **节省内存**：只需要两个缓冲区，而不是保存所有时间步
-- **自然并行**：GPU线程可以同时读取旧状态、写入新状态
+- **自然并行**：GPU线程可以同时读取旧状态、写入新状态3
+
+https://chatgpt.com/share/69bea7ca-7348-8002-8b98-c15e954a2d71

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7fdc51280389607d",
+        "id": "07483ad71407695a",
         "type": "tabs",
         "children": [
           {
-            "id": "3999c67c69bfbdf2",
+            "id": "a1e216ac446c930a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "股票/学习笔记/26.03.18 砖型图的核心用法.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "26.03.18 砖型图的核心用法"
+              "title": "新标签页"
             }
           }
         ]
@@ -95,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.50378799438477,
-    "collapsed": true
+    "width": 302.50694274902344
   },
   "right": {
     "id": "2e88a07155069686",
@@ -105,6 +100,7 @@
       {
         "id": "b3a769639c5023ed",
         "type": "tabs",
+        "dimension": 48.06201550387597,
         "children": [
           {
             "id": "d3889ddb7e38e9cb",
@@ -112,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "股票/学习笔记/26.03.08如何进一步提高b1选股的成功率,以及一个重要的盘面语言避免被洗走.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "26.03.08如何进一步提高b1选股的成功率,以及一个重要的盘面语言避免被洗走 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -130,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "股票/学习笔记/26.03.08如何进一步提高b1选股的成功率,以及一个重要的盘面语言避免被洗走.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -148,16 +141,6 @@
             }
           },
           {
-            "id": "11ce2cb9d6fb70d4",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
             "id": "1ec8911010e7c093",
             "type": "leaf",
             "state": {
@@ -166,13 +149,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7a13caaf24e45e13",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "99160f7c60f10f0d",
         "type": "tabs",
+        "dimension": 51.93798449612403,
         "children": [
           {
             "id": "d4579765cf937e8e",
@@ -180,13 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "股票/学习笔记/26.03.08如何进一步提高b1选股的成功率,以及一个重要的盘面语言避免被洗走.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "26.03.08如何进一步提高b1选股的成功率,以及一个重要的盘面语言避免被洗走 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -195,10 +187,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -226,95 +218,94 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "股票/25.12.24底部暴力k线擒大牛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "25.12.24底部暴力k线擒大牛 的出链列表"
+              "title": "出链"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 568.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "media-extended:Open external media": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "bases:新建数据库": false,
       "zk-prefixer:创建时间戳笔记": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
+      "graph:查看关系图谱": true,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "media-extended:Open external media": false,
+      "workspaces:管理工作区布局": true,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "homepage:Open homepage": true,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": true,
       "obsidian-git:Open Git source control": false,
-      "sheet-plus:创建 Excel 文件": false
+      "sheet-plus:创建 Excel 文件": false,
+      "mxmind:Mxmind": false
     }
   },
-  "active": "3999c67c69bfbdf2",
+  "active": "d3889ddb7e38e9cb",
   "lastOpenFiles": [
-    "股票/学习笔记/附件/Pasted image 20260319013839.png",
-    "股票/学习笔记/附件/Pasted image 20260319013819.png",
-    "股票/学习笔记/附件/Pasted image 20260319013805.png",
-    "股票/学习笔记/附件/Pasted image 20260319013701.png",
-    "股票/学习笔记/附件/Pasted image 20260318232554.png",
-    "股票/学习笔记/26.03.15 风险提示+文章解读.md",
-    "股票/学习笔记/26.03.18 砖型图的核心用法.md",
-    "股票/学习笔记/附件/Pasted image 20260316031136.png",
-    "期末毕设/写论文.md",
-    "股票/学习笔记/26.03.11九篇心法精讲.md",
-    "期末毕设/未命名.md",
-    "期末毕设/读论文.md",
-    "期末毕设",
-    "股票/学习笔记/附件/Pasted image 20260311232735.png",
-    "股票/学习笔记/25.08.19只买最好的 进阶课.md",
-    "股票/1黑名单 blacklist.md",
-    "股票/学习笔记/26.03.08如何进一步提高b1选股的成功率,以及一个重要的盘面语言避免被洗走.md",
-    "股票/学习笔记/26.02.19 进阶 如何大幅提高波段选股成功率.md",
-    "股票/学习笔记/26.03.01 10张难看的图形绝不能碰.md",
-    "股票/学习笔记/26.03.04.md",
-    "股票/学习笔记/附件/Pasted image 20260302012215.png",
-    "股票/学习笔记/附件/Pasted image 20260302010455.png",
-    "股票/学习笔记/附件/Pasted image 20260302005036.png",
-    "股票/学习笔记/附件/Pasted image 20260302004647.png",
-    "股票/选股日记.md",
-    "股票/学习笔记/26.02.20(危险)10万以下小资金如何快速做大.md",
-    "股票/学习笔记/26.02.24展望节后行情如何演绎.md",
-    "股票/学习笔记/26.1.26.md",
-    "股票/学习笔记/26.2.11节前答疑时间.md",
-    "股票/学习笔记/26.02.04当前环境下最好的交易策略--春节加课之一.md",
-    "股票/26.2.1.md",
-    "股票/学习笔记/26.01.21开枝散叶,踏准节奏.md",
-    "股票/学习笔记/25.09.03今天才有点儿内个意思(10张完美b1图)(11.18补两张).md",
-    "股票/学习笔记/26.01.14打窝结束!如何变阵.md",
-    "股票/1零碎知识点.md",
-    "股票/学习笔记/25.10.6国庆特训2--5种b2玩法.md",
-    "股票/学习笔记/26.01.11当前行情下5种散户常犯错误.md",
-    "股票/学习笔记/附件/需要反复背诵的十张图-前复权版（建议收藏复习）.html",
-    "股票/学习笔记/附件",
-    "股票/选股日记",
-    "投资日记",
-    "股票/学习笔记",
-    "CUDA学习/未命名.base",
-    "CUDA学习/附件",
+    "股票/学习笔记/选股.md",
+    "股票/学习笔记/未命名思维导图.md",
+    "未命名.md",
+    "股票/学习笔记/26.04.15知行交易模块总结.md",
+    "股票/学习笔记/B1战法.md",
+    "股票/未命名.md",
+    "股票/附件/Pasted image 20260415231058.png",
+    "股票/附件/Pasted image 20260415225940.png",
+    "股票/附件",
+    "Excalidraw/Drawing 2026-04-15 22.48.39.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-15 22.44.25.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
     "未命名.canvas",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "CUDA学习/学习路线记录.md",
+    "Excalidraw/Drawing 2026-04-15 22.42.44.excalidraw.md",
     "Excalidraw",
-    "1 - 01-llc识别后端.mp4",
+    "CUDA学习/cuda性能调试工具集 Nsight.md",
+    "CUDA学习/附件/Pasted image 20260415170959.png",
+    "CUDA学习/附件/Pasted image 20260415164226.png",
+    "Excalidraw/Drawing 2026-04-15 16.15.37.excalidraw.md",
+    "CUDA学习/NV官方文档-CUDA C++ Programming Guide  Release 13.2.md",
+    "CUDA学习/算子工程师学习路线与对话记录.md",
+    "Discourse收集箱/东方财富API接口文档.md",
+    "未命名 1",
+    "未命名",
+    "Discourse收集箱/GenericAgent——复旦团队研发-仅仅~3K-行代码-Self-Evolving-Agent.md",
+    "Discourse收集箱/[开源推广]手机远程控制CCcodex的超轻量化工具.md",
+    "Discourse收集箱",
+    "CUDA学习/学习路径.md",
+    "CUDA学习/cuda 小问题.md",
+    "CUDA学习/笔记-CUDA编程入门极简教程.md",
+    "股票/学习笔记/26.04.13探讨这个多头区间可能的主线与支线.md",
+    "股票/1零碎知识点.md",
+    "CUDA学习/qwen3.5.md",
+    "股票/9篇文章/附件/市场交易反心理特征之2：忽视热点切换的苗头.html",
+    "股票/9篇文章/附件/市场交易反心理特征之1：太过完美而不敢买入.html",
+    "股票/9篇文章/附件/9.html",
+    "股票/9篇文章/附件/Pasted image 20260402012706.png",
+    "股票/学习笔记/附件/Pasted image 20260326002819.png",
+    "股票/学习笔记/附件/Pasted image 20260326002058.png",
     "未命名 1.canvas"
   ]
 }

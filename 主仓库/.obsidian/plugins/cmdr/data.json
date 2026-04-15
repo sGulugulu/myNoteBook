@@ -42,7 +42,9 @@
     "statusbar": [
       "sync"
     ],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Templater"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {
