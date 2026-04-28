@@ -16,12 +16,6 @@
   "titleBar": [],
   "statusBar": [
     {
-      "id": "app:open-vault",
-      "icon": "vault",
-      "name": "打开其他仓库",
-      "mode": "any"
-    },
-    {
       "id": "app:open-settings",
       "icon": "lucide-settings",
       "name": "打开设置",

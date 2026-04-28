@@ -4,17 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "07483ad71407695a",
+        "id": "e849d6bef0c7425f",
         "type": "tabs",
         "children": [
           {
-            "id": "a1e216ac446c930a",
+            "id": "45ba80100cc2784d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "股票/读书笔记/股票大作手操盘术.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "股票大作手操盘术"
+            }
+          },
+          {
+            "id": "ef0a81bbef8eb80c",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "股票/交割单.md"
+              },
+              "icon": "lucide-file",
+              "title": "交割单"
             }
           }
         ]
@@ -29,7 +45,7 @@
       {
         "id": "85566d1fe6bdf496",
         "type": "tabs",
-        "dimension": 48.309178743961354,
+        "dimension": 27.322404371584703,
         "children": [
           {
             "id": "ca7a40f007c7cef6",
@@ -57,7 +73,7 @@
       {
         "id": "386e86ea9c61f379",
         "type": "tabs",
-        "dimension": 51.690821256038646,
+        "dimension": 72.6775956284153,
         "children": [
           {
             "id": "4b9b0c47319472dc",
@@ -100,7 +116,7 @@
       {
         "id": "b3a769639c5023ed",
         "type": "tabs",
-        "dimension": 48.06201550387597,
+        "dimension": 48.062015503875976,
         "children": [
           {
             "id": "d3889ddb7e38e9cb",
@@ -108,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "股票/学习笔记/26.04.15知行交易模块总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "26.04.15知行交易模块总结 的反向链接列表"
             }
           },
           {
@@ -125,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "股票/学习笔记/26.04.15知行交易模块总结.md"
+              },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -160,12 +179,13 @@
               "title": "Mermaid Toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "99160f7c60f10f0d",
         "type": "tabs",
-        "dimension": 51.93798449612403,
+        "dimension": 51.937984496124024,
         "children": [
           {
             "id": "d4579765cf937e8e",
@@ -173,12 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "股票/学习笔记/26.04.15知行交易模块总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "26.04.15知行交易模块总结 的大纲"
             }
           },
           {
@@ -187,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#include",
+                "query": "tag:#中短线交易",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -218,18 +239,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "股票/学习笔记/26.04.15知行交易模块总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "26.04.15知行交易模块总结 的出链列表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 568.5
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,59 +276,57 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false,
       "mermaid-tools:Open Mermaid Toolbar": true,
       "obsidian-git:Open Git source control": false,
-      "sheet-plus:创建 Excel 文件": false,
-      "mxmind:Mxmind": false
+      "sheet-plus:创建 Excel 文件": false
     }
   },
-  "active": "d3889ddb7e38e9cb",
+  "active": "45ba80100cc2784d",
   "lastOpenFiles": [
-    "股票/学习笔记/选股.md",
-    "股票/学习笔记/未命名思维导图.md",
-    "未命名.md",
-    "股票/学习笔记/26.04.15知行交易模块总结.md",
-    "股票/学习笔记/B1战法.md",
-    "股票/未命名.md",
-    "股票/附件/Pasted image 20260415231058.png",
-    "股票/附件/Pasted image 20260415225940.png",
-    "股票/附件",
-    "Excalidraw/Drawing 2026-04-15 22.48.39.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-15 22.44.25.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
-    "未命名.canvas",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "股票/读书笔记/股票大作手回忆录.md",
+    "股票/交割单.md",
+    "股票/课表.md",
+    "股票/复盘笔记.md",
+    "股票/1黑名单 blacklist.md",
+    "股票/附件/fca60d13ffb39628f76b9d44e9786b41.jpg",
+    "股票/学习笔记/26.04.19.md",
+    "股票/学习笔记/26.04.22唯一具有趋势预判性质的指标.md",
+    "股票/读书笔记/股票大作手操盘术.md",
+    "股票/学习笔记/附件/Pasted image 20260420012210.png",
+    "股票/学习笔记/附件/Pasted image 20260420011924.png",
+    "股票/学习笔记/附件/Pasted image 20260420011726.png",
+    "股票/学习笔记/附件/Pasted image 20260105014927.png",
+    "股票/学习笔记/附件/Pasted image 20260420023746.png",
+    "股票/学习笔记/附件/Pasted image 20260420023724.png",
+    "股票/学习笔记/附件/Pasted image 20260420023652.png",
+    "股票/学习笔记/附件/Pasted image 20260420012406.png",
+    "股票/学习笔记/26.01.04.md",
+    "股票/学习笔记/25.05.07少妇战法.md",
+    "股票/学习笔记/26.04.26 从产业资本角度看投资.md",
+    "股票/读书笔记",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "期末毕设/读论文.md",
+    "股票/9篇文章/附件/市场交易反心理特征之1：太过完美而不敢买入.html",
+    "股票/9篇文章/9篇z哥文章.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
+    "股票/学习笔记/B1战法.md",
+    "股票/学习笔记/选股.md",
+    "股票/学习笔记/26.04.15知行交易模块总结.md",
+    "股票/学习笔记/26.4.15模块总结.md",
+    "股票/学习笔记/25.08.19只买最好的 进阶课.md",
+    "Discourse收集箱/【教程】免费自建节点搭建！无需服务器，从此告别机场，支持访问openaigeminiclaude.md",
+    "股票/1零碎知识点.md",
+    "CUDA学习/学习路线记录.md",
+    "CUDA学习/未命名.md",
+    "Discourse收集箱/【转帖】从-X-上搬运来的白嫖-GPT-Plus-教程.md",
+    "股票/附件",
+    "未命名.canvas",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "CUDA学习/学习路线记录.md",
-    "Excalidraw/Drawing 2026-04-15 22.42.44.excalidraw.md",
     "Excalidraw",
-    "CUDA学习/cuda性能调试工具集 Nsight.md",
-    "CUDA学习/附件/Pasted image 20260415170959.png",
-    "CUDA学习/附件/Pasted image 20260415164226.png",
-    "Excalidraw/Drawing 2026-04-15 16.15.37.excalidraw.md",
-    "CUDA学习/NV官方文档-CUDA C++ Programming Guide  Release 13.2.md",
-    "CUDA学习/算子工程师学习路线与对话记录.md",
-    "Discourse收集箱/东方财富API接口文档.md",
     "未命名 1",
-    "未命名",
-    "Discourse收集箱/GenericAgent——复旦团队研发-仅仅~3K-行代码-Self-Evolving-Agent.md",
-    "Discourse收集箱/[开源推广]手机远程控制CCcodex的超轻量化工具.md",
     "Discourse收集箱",
-    "CUDA学习/学习路径.md",
-    "CUDA学习/cuda 小问题.md",
-    "CUDA学习/笔记-CUDA编程入门极简教程.md",
-    "股票/学习笔记/26.04.13探讨这个多头区间可能的主线与支线.md",
-    "股票/1零碎知识点.md",
-    "CUDA学习/qwen3.5.md",
     "股票/9篇文章/附件/市场交易反心理特征之2：忽视热点切换的苗头.html",
-    "股票/9篇文章/附件/市场交易反心理特征之1：太过完美而不敢买入.html",
     "股票/9篇文章/附件/9.html",
-    "股票/9篇文章/附件/Pasted image 20260402012706.png",
-    "股票/学习笔记/附件/Pasted image 20260326002819.png",
-    "股票/学习笔记/附件/Pasted image 20260326002058.png",
     "未命名 1.canvas"
   ]
 }
