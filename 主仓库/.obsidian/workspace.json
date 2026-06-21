@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e849d6bef0c7425f",
+        "id": "268b885cae78aea4",
         "type": "tabs",
         "children": [
           {
-            "id": "45ba80100cc2784d",
+            "id": "3367661b07ef6af6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "股票/读书笔记/股票大作手操盘术.md",
+                "file": "lua学习笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "股票大作手操盘术"
-            }
-          },
-          {
-            "id": "ef0a81bbef8eb80c",
-            "type": "leaf",
-            "state": {
-              "type": "excel-pro-view",
-              "state": {
-                "file": "股票/交割单.md"
-              },
-              "icon": "lucide-file",
-              "title": "交割单"
+              "title": "lua学习笔记"
             }
           }
         ]
@@ -45,7 +33,6 @@
       {
         "id": "85566d1fe6bdf496",
         "type": "tabs",
-        "dimension": 27.322404371584703,
         "children": [
           {
             "id": "ca7a40f007c7cef6",
@@ -66,15 +53,17 @@
               "icon": "clock",
               "title": "Recent Files"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "386e86ea9c61f379",
-        "type": "tabs",
-        "dimension": 72.6775956284153,
-        "children": [
+          },
+          {
+            "id": "1e24cbb5f025e54d",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
+          },
           {
             "id": "4b9b0c47319472dc",
             "type": "leaf",
@@ -87,27 +76,14 @@
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
-          },
-          {
-            "id": "71715af38189da35",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 302.50694274902344
+    "width": 467.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "2e88a07155069686",
@@ -177,6 +153,21 @@
               "state": {},
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "2341df4c71c7399c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           }
         ],
@@ -256,77 +247,80 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "media-extended:Open external media": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "bases:新建数据库": false,
-      "zk-prefixer:创建时间戳笔记": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": true,
+      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": true,
-      "markdown-importer:打开 Markdown 格式转换器": true,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "sheet-plus:创建 Excel 文件": false,
+      "notebook-navigator:笔记本导航器": false,
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false,
+      "templater-obsidian:Templater": false,
       "homepage:Open homepage": true,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
       "mermaid-tools:Open Mermaid Toolbar": true,
-      "obsidian-git:Open Git source control": false,
-      "sheet-plus:创建 Excel 文件": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45ba80100cc2784d",
+  "active": "3367661b07ef6af6",
   "lastOpenFiles": [
-    "股票/读书笔记/股票大作手回忆录.md",
-    "股票/交割单.md",
-    "股票/课表.md",
-    "股票/复盘笔记.md",
-    "股票/1黑名单 blacklist.md",
-    "股票/附件/fca60d13ffb39628f76b9d44e9786b41.jpg",
-    "股票/学习笔记/26.04.19.md",
-    "股票/学习笔记/26.04.22唯一具有趋势预判性质的指标.md",
+    "股票/未命名.md",
+    "lua学习笔记.md",
+    "期末毕设/毕设答辩.md",
+    "期末毕设/未命名.md",
+    "期末毕设/读论文.md",
+    "期末毕设/写论文.md",
+    "股票/学习笔记/25.09.03今天才有点儿内个意思(10张完美b1图)(11.18补两张).md",
+    "Clippings/Post by @yanhua1010 on X.md",
     "股票/读书笔记/股票大作手操盘术.md",
+    "Clippings",
+    "media-lib/index.base",
+    "media-lib",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "股票/学习笔记/26.05.05 如何抓到杨角幂.md",
+    "股票/学习笔记/25.10.6国庆特训2--5种b2玩法.md",
+    "股票/学习笔记/26.01.11当前行情下5种散户常犯错误.md",
+    "股票/学习笔记/附件/需要反复背诵的十张图-前复权版（建议收藏复习）.html",
+    "股票/学习笔记/26.01.14打窝结束!如何变阵.md",
+    "股票/学习笔记/26.01.07 b2买点案例精讲(变化很多,多看).md",
+    "股票/学习笔记/26.01.21开枝散叶,踏准节奏.md",
+    "股票/9篇文章/附件/7.html",
+    "股票/附件/Pasted image 20260415231058.png",
+    "股票/附件/Pasted image 20260415225940.png",
+    "股票/附件/fca60d13ffb39628f76b9d44e9786b41.jpg",
+    "股票/9篇文章/附件/主页.html",
+    "股票/9篇文章/附件/未命名.md",
+    "股票/9篇文章/附件/9.html",
+    "股票/学习笔记/25.08.27指数贡献策略防止踏空.md",
+    "CUDA学习/学习路线记录.md",
+    "CUDA学习/算子工程师学习路线与对话记录.md",
+    "股票/学习笔记/26.04.29 三种常用战法摸底考试.md",
+    "股票/学习笔记/附件/Pasted image 20260430010620.png",
+    "股票/1零碎知识点.md",
+    "股票/学习笔记/25.08.19只买最好的 进阶课.md",
+    "股票/交割单.md",
+    "股票/读书笔记/股票大作手回忆录.md",
+    "股票/课表.md",
     "股票/学习笔记/附件/Pasted image 20260420012210.png",
     "股票/学习笔记/附件/Pasted image 20260420011924.png",
     "股票/学习笔记/附件/Pasted image 20260420011726.png",
     "股票/学习笔记/附件/Pasted image 20260105014927.png",
     "股票/学习笔记/附件/Pasted image 20260420023746.png",
-    "股票/学习笔记/附件/Pasted image 20260420023724.png",
-    "股票/学习笔记/附件/Pasted image 20260420023652.png",
-    "股票/学习笔记/附件/Pasted image 20260420012406.png",
-    "股票/学习笔记/26.01.04.md",
-    "股票/学习笔记/25.05.07少妇战法.md",
-    "股票/学习笔记/26.04.26 从产业资本角度看投资.md",
     "股票/读书笔记",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
-    "期末毕设/读论文.md",
     "股票/9篇文章/附件/市场交易反心理特征之1：太过完美而不敢买入.html",
-    "股票/9篇文章/9篇z哥文章.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
-    "股票/学习笔记/B1战法.md",
-    "股票/学习笔记/选股.md",
-    "股票/学习笔记/26.04.15知行交易模块总结.md",
-    "股票/学习笔记/26.4.15模块总结.md",
-    "股票/学习笔记/25.08.19只买最好的 进阶课.md",
-    "Discourse收集箱/【教程】免费自建节点搭建！无需服务器，从此告别机场，支持访问openaigeminiclaude.md",
-    "股票/1零碎知识点.md",
-    "CUDA学习/学习路线记录.md",
-    "CUDA学习/未命名.md",
-    "Discourse收集箱/【转帖】从-X-上搬运来的白嫖-GPT-Plus-教程.md",
     "股票/附件",
     "未命名.canvas",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
-    "未命名 1",
-    "Discourse收集箱",
-    "股票/9篇文章/附件/市场交易反心理特征之2：忽视热点切换的苗头.html",
-    "股票/9篇文章/附件/9.html",
     "未命名 1.canvas"
   ]
 }

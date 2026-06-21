@@ -1,16 +1,128 @@
 {
   "recentFiles": [
     {
+      "basename": "lua学习笔记",
+      "path": "lua学习笔记.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "股票/未命名.md"
+    },
+    {
+      "basename": "毕设答辩",
+      "path": "期末毕设/毕设答辩.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "期末毕设/未命名.md"
+    },
+    {
+      "basename": "读论文",
+      "path": "期末毕设/读论文.md"
+    },
+    {
+      "basename": "写论文",
+      "path": "期末毕设/写论文.md"
+    },
+    {
+      "basename": "25.09.03今天才有点儿内个意思(10张完美b1图)(11.18补两张)",
+      "path": "股票/学习笔记/25.09.03今天才有点儿内个意思(10张完美b1图)(11.18补两张).md"
+    },
+    {
+      "basename": "Post by @yanhua1010 on X",
+      "path": "Clippings/Post by @yanhua1010 on X.md"
+    },
+    {
       "basename": "股票大作手操盘术",
       "path": "股票/读书笔记/股票大作手操盘术.md"
     },
     {
-      "basename": "股票大作手回忆录",
-      "path": "股票/读书笔记/股票大作手回忆录.md"
+      "basename": "Mindmap format",
+      "path": "Excalidraw/Scripts/Downloaded/Mindmap format.md"
+    },
+    {
+      "basename": "Mindmap format",
+      "path": "Excalidraw/Scripts/Downloaded/Mindmap format.svg"
+    },
+    {
+      "basename": "26.05.05 如何抓到杨角幂",
+      "path": "股票/学习笔记/26.05.05 如何抓到杨角幂.md"
+    },
+    {
+      "basename": "25.10.6国庆特训2--5种b2玩法",
+      "path": "股票/学习笔记/25.10.6国庆特训2--5种b2玩法.md"
+    },
+    {
+      "basename": "26.01.11当前行情下5种散户常犯错误",
+      "path": "股票/学习笔记/26.01.11当前行情下5种散户常犯错误.md"
+    },
+    {
+      "basename": "需要反复背诵的十张图-前复权版（建议收藏复习）",
+      "path": "股票/学习笔记/附件/需要反复背诵的十张图-前复权版（建议收藏复习）.html"
+    },
+    {
+      "basename": "26.01.14打窝结束!如何变阵",
+      "path": "股票/学习笔记/26.01.14打窝结束!如何变阵.md"
+    },
+    {
+      "basename": "26.01.07 b2买点案例精讲(变化很多,多看)",
+      "path": "股票/学习笔记/26.01.07 b2买点案例精讲(变化很多,多看).md"
+    },
+    {
+      "basename": "26.01.21开枝散叶,踏准节奏",
+      "path": "股票/学习笔记/26.01.21开枝散叶,踏准节奏.md"
+    },
+    {
+      "basename": "7",
+      "path": "股票/9篇文章/附件/7.html"
+    },
+    {
+      "basename": "fca60d13ffb39628f76b9d44e9786b41",
+      "path": "股票/附件/fca60d13ffb39628f76b9d44e9786b41.jpg"
+    },
+    {
+      "basename": "Pasted image 20260415231058",
+      "path": "股票/附件/Pasted image 20260415231058.png"
+    },
+    {
+      "basename": "主页",
+      "path": "股票/9篇文章/附件/主页.html"
+    },
+    {
+      "basename": "9",
+      "path": "股票/9篇文章/附件/9.html"
+    },
+    {
+      "basename": "25.08.27指数贡献策略防止踏空",
+      "path": "股票/学习笔记/25.08.27指数贡献策略防止踏空.md"
+    },
+    {
+      "basename": "学习路线记录",
+      "path": "CUDA学习/学习路线记录.md"
+    },
+    {
+      "basename": "算子工程师学习路线与对话记录",
+      "path": "CUDA学习/算子工程师学习路线与对话记录.md"
+    },
+    {
+      "basename": "26.04.29 三种常用战法摸底考试",
+      "path": "股票/学习笔记/26.04.29 三种常用战法摸底考试.md"
+    },
+    {
+      "basename": "1零碎知识点",
+      "path": "股票/1零碎知识点.md"
+    },
+    {
+      "basename": "25.08.19只买最好的 进阶课",
+      "path": "股票/学习笔记/25.08.19只买最好的 进阶课.md"
     },
     {
       "basename": "交割单",
       "path": "股票/交割单.md"
+    },
+    {
+      "basename": "股票大作手回忆录",
+      "path": "股票/读书笔记/股票大作手回忆录.md"
     },
     {
       "basename": "课表",
@@ -41,24 +153,12 @@
       "path": "股票/学习笔记/26.04.26 从产业资本角度看投资.md"
     },
     {
-      "basename": "Mindmap format",
-      "path": "Excalidraw/Scripts/Downloaded/Mindmap format.md"
-    },
-    {
-      "basename": "Mindmap format",
-      "path": "Excalidraw/Scripts/Downloaded/Mindmap format.svg"
-    },
-    {
       "basename": "Mindmap connector",
       "path": "Excalidraw/Scripts/Downloaded/Mindmap connector.svg"
     },
     {
       "basename": "Mindmap Builder",
       "path": "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg"
-    },
-    {
-      "basename": "读论文",
-      "path": "期末毕设/读论文.md"
     },
     {
       "basename": "市场交易反心理特征之1：太过完美而不敢买入",
@@ -89,20 +189,8 @@
       "path": "股票/学习笔记/26.4.15模块总结.md"
     },
     {
-      "basename": "25.08.19只买最好的 进阶课",
-      "path": "股票/学习笔记/25.08.19只买最好的 进阶课.md"
-    },
-    {
       "basename": "【教程】免费自建节点搭建！无需服务器，从此告别机场，支持访问openaigeminiclaude",
       "path": "Discourse收集箱/【教程】免费自建节点搭建！无需服务器，从此告别机场，支持访问openaigeminiclaude.md"
-    },
-    {
-      "basename": "1零碎知识点",
-      "path": "股票/1零碎知识点.md"
-    },
-    {
-      "basename": "学习路线记录",
-      "path": "CUDA学习/学习路线记录.md"
     },
     {
       "basename": "【转帖】从-X-上搬运来的白嫖-GPT-Plus-教程",
@@ -111,70 +199,6 @@
     {
       "basename": "笔记-CUDA编程入门极简教程",
       "path": "CUDA学习/笔记-CUDA编程入门极简教程.md"
-    },
-    {
-      "basename": "cuda 小问题",
-      "path": "CUDA学习/cuda 小问题.md"
-    },
-    {
-      "basename": "25.09.03今天才有点儿内个意思(10张完美b1图)(11.18补两张)",
-      "path": "股票/学习笔记/25.09.03今天才有点儿内个意思(10张完美b1图)(11.18补两张).md"
-    },
-    {
-      "basename": "Mindmap connector",
-      "path": "Excalidraw/Scripts/Downloaded/Mindmap connector.md"
-    },
-    {
-      "basename": "Pasted image 20260415231058",
-      "path": "股票/附件/Pasted image 20260415231058.png"
-    },
-    {
-      "basename": "cuda性能调试工具集 Nsight",
-      "path": "CUDA学习/cuda性能调试工具集 Nsight.md"
-    },
-    {
-      "basename": "NV官方文档-CUDA C++ Programming Guide  Release 13.2",
-      "path": "CUDA学习/NV官方文档-CUDA C++ Programming Guide  Release 13.2.md"
-    },
-    {
-      "basename": "算子工程师学习路线与对话记录",
-      "path": "CUDA学习/算子工程师学习路线与对话记录.md"
-    },
-    {
-      "basename": "东方财富API接口文档",
-      "path": "Discourse收集箱/东方财富API接口文档.md"
-    },
-    {
-      "basename": "GenericAgent——复旦团队研发-仅仅~3K-行代码-Self-Evolving-Agent",
-      "path": "Discourse收集箱/GenericAgent——复旦团队研发-仅仅~3K-行代码-Self-Evolving-Agent.md"
-    },
-    {
-      "basename": "[开源推广]手机远程控制CCcodex的超轻量化工具",
-      "path": "Discourse收集箱/[开源推广]手机远程控制CCcodex的超轻量化工具.md"
-    },
-    {
-      "basename": "学习路径",
-      "path": "CUDA学习/学习路径.md"
-    },
-    {
-      "basename": "26.04.13探讨这个多头区间可能的主线与支线",
-      "path": "股票/学习笔记/26.04.13探讨这个多头区间可能的主线与支线.md"
-    },
-    {
-      "basename": "qwen3.5",
-      "path": "CUDA学习/qwen3.5.md"
-    },
-    {
-      "basename": "intro to CUDA 1",
-      "path": "CUDA学习/intro to CUDA 1.md"
-    },
-    {
-      "basename": "市场交易反心理特征之2：忽视热点切换的苗头",
-      "path": "股票/9篇文章/附件/市场交易反心理特征之2：忽视热点切换的苗头.html"
-    },
-    {
-      "basename": "Pasted image 20260402012706",
-      "path": "股票/9篇文章/附件/Pasted image 20260402012706.png"
     }
   ],
   "omittedPaths": [],
