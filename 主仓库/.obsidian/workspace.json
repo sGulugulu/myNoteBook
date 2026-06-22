@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "268b885cae78aea4",
+        "id": "0f4e037d57de598b",
         "type": "tabs",
         "children": [
           {
-            "id": "3367661b07ef6af6",
+            "id": "fb42de03c98fb2e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lua学习笔记.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "lua学习笔记"
+              "title": "新标签页"
             }
           }
         ]
@@ -51,7 +47,7 @@
               "type": "recent-files",
               "state": {},
               "icon": "clock",
-              "title": "Recent Files"
+              "title": "Recent files"
             }
           },
           {
@@ -60,8 +56,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "笔记本导航器"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           },
           {
@@ -78,12 +74,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 467.50694274902344,
-    "collapsed": true
+    "width": 467.50694274902344
   },
   "right": {
     "id": "2e88a07155069686",
@@ -146,16 +141,6 @@
             }
           },
           {
-            "id": "7a13caaf24e45e13",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
             "id": "2341df4c71c7399c",
             "type": "leaf",
             "state": {
@@ -199,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#中短线交易",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -269,13 +254,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
       "mermaid-tools:Open Mermaid Toolbar": true,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "media-extended:打开媒体库": false,
+      "media-extended:打开媒体快速切换器": false
     }
   },
-  "active": "3367661b07ef6af6",
+  "active": "fb42de03c98fb2e9",
   "lastOpenFiles": [
-    "股票/未命名.md",
     "lua学习笔记.md",
+    "股票/学习笔记/26.04.19.md",
+    "股票/未命名.md",
     "期末毕设/毕设答辩.md",
     "期末毕设/未命名.md",
     "期末毕设/读论文.md",
@@ -311,7 +299,6 @@
     "股票/学习笔记/25.08.19只买最好的 进阶课.md",
     "股票/交割单.md",
     "股票/读书笔记/股票大作手回忆录.md",
-    "股票/课表.md",
     "股票/学习笔记/附件/Pasted image 20260420012210.png",
     "股票/学习笔记/附件/Pasted image 20260420011924.png",
     "股票/学习笔记/附件/Pasted image 20260420011726.png",

@@ -8,6 +8,7 @@
   "colWidth": "100",
   "authorizationCode": "",
   "embedLinkShowFooter": "false",
+  "embedLinkOpenMode": "split-right",
   "numberFormatLocal": "en",
   "mobileRenderMode": "desktop",
   "darkModal": "dark",

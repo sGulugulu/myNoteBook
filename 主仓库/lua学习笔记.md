@@ -16,9 +16,11 @@
 ]]
 ```
 
-## 全局变量
-默认情况下,变量总是认为是全局的, 不需要声明, 给一个变量赋值后即创建, 访问未初始化的变量不会报错, 会返回nil
-
+## 全局/局部变量
+默认情况下,变量总是认为是全局的, 哪怕是`在函数体中也是全局变量`不需要声明, 除非用`local`关键字显式声明为局部变量
+给一个变量赋值后即创建, 访问未初始化的变量不会报错, 会返回nil
+Lua可以对多个变量同时赋值,变量列表和值列表都需要用逗号隔开
+`a, b = 10, 2*x -- a=10; b=2*x`
 ## 数据类型
 8个数据类型为nil , boolean , number , string , userdata, function, thread, table 
 
@@ -78,3 +80,44 @@ table Lua 中的表（table）其实是一个"关联数组"（associative arrays
 	```
 	lua里表一般以1开始
 	table大小不固定, 有新数据添加时table长度会自动增长
+
+
+## 控制语句
+
+### 分支语句 (if else end)
+```
+if (布尔表达式) then 
+	---
+else 
+	---
+end
+```
+### 循环语句
+----
+#### while循环
+```lua
+while (condition ) do
+	---
+do
+```
+#### for循环
+(1)数值for循环
+```lua
+for var = exp1 ,exp2, exp3 do
+	---
+end
+```
+ (2)泛型for循环(游戏开发中常用) : 通过一个迭代器函数来遍历所有值, 类似java中的foreach语句
+```lua
+--[[k,v为键值对, k是索引值, v是对应索引的元素值]]--
+for k,v in ipairs(a) do 
+	print(v)
+end
+```
+(3)repeat...until 循环
+先执行一次, 再进行条件判断
+```lua
+repeat
+	<执行体>
+while(condition)
+```
